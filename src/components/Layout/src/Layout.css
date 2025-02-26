@@ -1,0 +1,14 @@
+.title {
+  font-size: 26px;
+  font-weight: bold;
+  padding: 2rem;
+}
+
+header > nav > a {
+  font-size: 20px;
+  padding: 2rem;
+}
+
+header > nav {
+  margin-bottom: 2rem;
+}
